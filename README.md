@@ -26,4 +26,4 @@ Roughly speaking, the procedure is as follows:
   - You might also want to tune parameters in the Julia scripts called in the shell scripts.
   - I note that multiprocessing is used: be aware of CPU and memory consumptions!
 
-Please contact me (ISHII Hidemasa) if you need more clarification.
+Please contact me (ISHII Hidemasa) if you need further clarification.
